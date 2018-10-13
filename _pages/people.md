@@ -2,6 +2,10 @@
 title: People
 permalink: people
 layout: page
+published: true
 ---
 
-Coming Soon
+## Lab Members
+
+coming soon
+
