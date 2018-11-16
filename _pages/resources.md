@@ -5,14 +5,14 @@ layout: page
 published: true
 ---
 
-### The Department of Film & Media Studies, _Summerfield Hall_
+### [The Department of Film & Media Studies](http://film.ku.edu), _Summerfield Hall_
 * Media production studio and equipment
 * Digital video editing suites
 * Screening rooms
 
 ---
 
-### Indigenous Studies Program, _Lippincott Hall_
+### [Indigenous Studies Program](https://indigenous.ku.edu), _Lippincott Hall_
 * Digital workspace
 * Meeting room
 
@@ -20,5 +20,5 @@ published: true
 
 ### [Digital Humanities Studio](http://idrh.ku.edu/studio), _410A Watson Library_
 * a collaborative space for instruction, research, discussion
-* includes movable furniture, HD monitors and 15 MacBook Air laptops with software for gathering, organizing, and analyzing data.
+* includes movable furniture, HD monitors and 15 MacBook Air laptops with software for gathering, organizing, and analyzing data)
 * Located in Watson Library, the space is in close proximity to KU Libraries expertise in data management, metadata, intellectual property, information literacy, GIS, publishing
