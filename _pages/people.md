@@ -1,11 +1,9 @@
 ---
-title: People
+title: Lab Members
 permalink: people
 layout: page
 published: true
 ---
-
-## Lab Members
 
 ### Faculty & Staff
 
