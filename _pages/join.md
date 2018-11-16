@@ -4,8 +4,6 @@ permalink: join
 layout: page
 published: true
 ---
-The ICM Lab is a collaboration between the Indigenous Studies Program, the Department of Film & Media Studies, and the Institute for Digital Research in the Humanities at the University of Kansas.
-
 Being a member of the ICM Lab does not require physical attendance or a local presence, and we invite members from the surrounding academic, Native American, activist, and professional communities to join us in our mission to generate partnerships, share resources and space, and unite to meet common research needs.
 
 ### Diversity and Inclusion Statement
