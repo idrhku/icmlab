@@ -18,6 +18,7 @@ The Indigenous Critical Media Lab (ICM Lab) is a collaborative research and teac
 * [Department of Film & Media Studies](http://film.ku.edu)
 * [Institute for Digital Research in the Humanities](http://idrh.ku.edu)
 * Indigenous Arts Initiative
+
 ---
 #### Diversity and Inclusion Statement 
 
