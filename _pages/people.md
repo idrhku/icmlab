@@ -23,6 +23,6 @@ Rain Charger, Indigenous Studies Program
 
 Shane Lynch, Indigenous Studies Program
 
-Twessna Mills, Indigenous Studies Program
+Tweesna Mills, Indigenous Studies Program
 
 Victoria Kaye, Indigenous Studies Program
