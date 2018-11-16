@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-### Faculty & Staff
+##### Faculty & Staff
 
 [Robert Warrior](http://americanstudies.ku.edu/robert-warrior), Hall Distinguished Professor of American Literature & Culture
 
@@ -15,7 +15,7 @@ published: true
 
 [Brian Rosenblum](http://idrh.ku.edu/), Digital Initiatives Librarian & Co-Director, Institute for Digital Research in the Humanities
 
-### Graduate Students
+##### Graduate Students
 
 Rain Charger, Indigenous Studies Program
 
