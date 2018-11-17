@@ -1,6 +1,6 @@
 ---
 title: Archive
-permalink: about
+permalink: archive
 layout: page
 published: true
 ---
