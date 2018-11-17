@@ -7,7 +7,7 @@ published: true
 
 <div class="row listrecent">
 
-{% for post in page.posts %}
+{% for post in site.posts %}
 
     {% include postbox.html %}
 
