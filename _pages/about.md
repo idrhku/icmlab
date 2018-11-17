@@ -4,7 +4,6 @@ permalink: about
 layout: page
 published: true
 ---
-
 The Indigenous Critical Media Lab (ICM Lab) is a collaborative research and teaching co-op for the exploration of digital arts and research. Based at the University of Kansas in Lawrence, KS, the goals of the Lab are to:
 
 * provide infrastructure for humanities and arts research based in Indigenous methods, cultural expression and language revitalization
