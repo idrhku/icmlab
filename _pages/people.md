@@ -8,7 +8,7 @@ published: true
 **Graduate Students**
 
 Rain Charger, Indigenous Studies Program  
-Shane Lynch, Indigenous Studies Program
+Shane Lynch, Indigenous Studies Program  
 Tweesna Mills, Indigenous Studies Program  
 Victoria Kaye, Indigenous Studies Program  
 
