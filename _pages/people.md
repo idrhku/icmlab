@@ -8,9 +8,12 @@ published: true
 **Graduate Students**
 
 ![Rain Charger]({{site.baseurl}}/_pages/hs-rain-250.jpg){:style="float: left ;margin-right: 7px;margin-top: 7px;"} **Rain Charger, Indigenous Studies Program**  
+Rain Charger is an Itazipacola Lakota Graduate scholar in the Indigenous Studies program at the University of Kansas. His work is centered on themes of identity, representation, agency and cultural revitalization. Through multiple projects and works, he is pursuing a unified project called the Living Indigenous Media. In this iteration, he is focused on dynamic, community driven archives as a space for cultural revitalization and preservation.
+
 *Links*  
 [Living Indigenous Media Podcast](https://podcasts.apple.com/gb/podcast/living-indigenous-media/id1385308462)  
 [Souliography Blog](https://pedagogyoftheuniverse.wordpress.com/)  
+[Red and Blues band](https://theredandblues.com/)
 [Twitter](https://twitter.com/@RainCharger)  
 
 <div style="clear:both"></div>
