@@ -8,11 +8,11 @@ published: true
 **Graduate Students**
 
 ![Rain Charger]({{site.baseurl}}/_pages/hs-rain-250.jpg){:style="float: left ;margin-right: 7px;margin-top: 7px;"} Rain Charger, Indigenous Studies Program 
-  
+<div style="clear:both">  
 ![Shane Lynch]({{site.baseurl}}/_pages/hs-shane-250.jpg){:style="float: left ;margin-right: 7px;margin-top: 7px;"} Shane Lynch, Indigenous Studies Program  
-  
+<div style="clear:both">
 ![Tweesna Mills]({{site.baseurl}}/_pages/hs-tweesna-250.jpg){:style="float: left ;margin-right: 7px;margin-top: 7px;"} Tweesna Mills, Indigenous Studies Program  
-  
+<div style="clear:both">
 Victoria Kaye, Indigenous Studies Program  
 
 ---
