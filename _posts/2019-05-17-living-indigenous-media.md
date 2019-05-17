@@ -1,6 +1,6 @@
 ---
 published: false
-date: 2019-05-17T00:00:00.000Z
+date: {}
 categories:
   - podcast
 tags:
@@ -9,12 +9,5 @@ type: null
 yt-video-id: null
 layout: post
 ---
-date: 2017-09-29T00:00:00.000Z
-categories:
-  - talks
-tags:
-  - idrh
-  - digital storytelling
-type: youtube
-yt-video-id: ASij08UNo7I
-layout: post
+[![Living Indigenous Media]({{site.baseurl}}/_posts/living-indigenous-media.jpg)](https://podcasts.apple.com/gb/podcast/living-indigenous-media/id1385308462) 
+Welcome to Living Indigenous Media, a podcast forum for discussing Indigenous media movements, oral histories and contributing to the Indigenous conversation. I'm your host Rain Charger, an Itazipacola Lakota grad student in the Indigenous Studies department at The University of Kansas.
