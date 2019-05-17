@@ -31,6 +31,7 @@ She plans to graduate in the summer of 2019 in Indigenous Studies and continue i
 
 *Links*
 [Vimeo](http://www.vimeo.com/tweesna)
+[Twitter](https://twitter.com/Tweesna1)
 
 <div style="clear:both"></div>
 **Victoria Kaye, Indigenous Studies Program**  
