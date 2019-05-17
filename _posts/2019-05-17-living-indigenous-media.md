@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 2017-09-29T00:00:00.000Z
 categories:
   - podcast
 tags:
