@@ -13,7 +13,7 @@ Rain Charger is an Itazipacola Lakota Graduate scholar in the Indigenous Studies
 *Links*  
 [Living Indigenous Media Podcast](https://podcasts.apple.com/gb/podcast/living-indigenous-media/id1385308462)  
 [Souliography Blog](https://pedagogyoftheuniverse.wordpress.com/)  
-[Red and Blues band](https://theredandblues.com/)
+[Red and Blues band](https://theredandblues.com/)  
 [Twitter](https://twitter.com/@RainCharger)  
 
 <div style="clear:both"></div>
