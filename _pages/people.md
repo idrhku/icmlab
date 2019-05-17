@@ -7,8 +7,7 @@ published: true
 
 **Graduate Students**
 
-![Rain Charger]({{site.baseurl}}/_pages/hs-rain-250.jpg){:style="float: left ;margin-right: 7px;margin-top: 7px;"} **Rain Charger, Indigenous Studies Program** 
-
+![Rain Charger]({{site.baseurl}}/_pages/hs-rain-250.jpg){:style="float: left ;margin-right: 7px;margin-top: 7px;"} **Rain Charger, Indigenous Studies Program**  
 *Links*  
 [Living Indigenous Media Podcast](https://podcasts.apple.com/gb/podcast/living-indigenous-media/id1385308462)  
 [Souliography Blog](https://pedagogyoftheuniverse.wordpress.com/)  
