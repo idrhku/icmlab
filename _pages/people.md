@@ -37,7 +37,7 @@ Tweesna Rose Mills is from the Eastern Shoshone-Yakama-Umatilla Nations and is a
 She plans to graduate in the summer of 2019 in Indigenous Studies and continue in the fall in the Film and Media Studies Program at the University of Kansas. 
 
 *Links*  
-[StoryMap](https://uploads.knightlab.com/storymapjs/2d2631b2fabc53da325aff39ffda72ac/vor/index.html)
+[StoryMap](https://uploads.knightlab.com/storymapjs/2d2631b2fabc53da325aff39ffda72ac/vor/index.html)  
 [Vimeo](http://www.vimeo.com/tweesna)  
 [Twitter](https://twitter.com/Tweesna1)  
 
